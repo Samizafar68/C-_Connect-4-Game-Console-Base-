@@ -1,6 +1,6 @@
 # Connect 4 Game 🎮
 
-A **C++ implementation** of the **classic Connect 4 game**, where two players take turns dropping tokens into a vertical grid. The first player to align four tokens in a row (horizontally, vertically, or diagonally) wins the game. The project incorporates fundamental programming concepts such as loops, functions, arrays, and file handling.
+A **C++ implementation** of the **classic Connect 4 game**, where two players take turns dropping tokens into a vertical grid. The first player to align four tokens in a row (horizontally, vertically, or diagonally) wins the game(You can Play in Easy,Medium,Hard mode). The project incorporates fundamental programming concepts such as loops, functions, arrays, and file handling.
 
 ## 📌 Features
 
